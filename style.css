@@ -1,0 +1,30 @@
+body {
+  padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+.screen{
+  display: none;
+}
+
+.battle-img{
+  float: left;
+  padding-right: 20px;
+  height: 248px;
+  width: 194px;
+}
+
+h5{
+  text-transform: uppercase;
+  display: inline;
+}
+
+.stat{
+  display: inline;
+  color: green;
+  font-weight: 600;
+}
+
+.start{
+  margin-top: 15px;
+  float: left;
+}
